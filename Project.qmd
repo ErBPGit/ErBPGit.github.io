@@ -1,0 +1,50 @@
+<!-- ---
+title: "Projects"
+format: html
+--- -->
+# Projects
+
+1.  TIK-TAE-TOE Game using JavaScript.
+    [Click here to Play](https://onlineashish.github.io/tik-tak-toe/)
+
+2.  [FaceFusion: EIgenfaces for face recognition](https://github.com/onlineashish/Facerecognization-%20from-scratch)
+<div class = "bullet">
+<ul>
+<li>Utilized the AT&T Database of Faces as the primary dataset for training and evaluating the face recognition model.</li>
+<li>Implemented a face recognition system based on the Eigenfaces algorithm, as outlined in the paper by M. A.
+Turk and A. P. Pentland, achieving an accuracy of 82.05%. </li>
+</ul>
+</div>
+
+3. [EEG 2 Emotion: Classifying EEG signals into Emotions](https://github.com/onlineashish/Emotion-classification-on-EEG-brainwave-dataset)<ul>
+<li>Devised EEG Based Emotion Classification system incorporating LSTM and GRU.</li>
+<li>Incorporated Birdy654 EEG brainwave [dataset](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions) consisting of positive, negative and neutral states of preprocessed data.</li>
+<li>Achieved an F1 score of 96% using LSTM which was found to be better than GRU.</li>
+</ul>
+
+
+4. Core ML Algorithm Implementations
+<ul>
+<li>[Decision Tree](https://github.com/onlineashish/Decision_Tree_From_Scratch) & [Random Forest](https://github.com/onlineashish/Random_Forest_Implementation): Implemented decision tree from scratch for discrete and real features using
+both gini index and info gain as split criteria. Also applied 5 fold cross-validation and found the performance
+to be nearly equivalent with sklearn’s model. Implemented Ada-boost and Bagging algorithm for ensemble
+methods which were used in Random Forest and Linear regression implementations.</li>
+<li>Bias Variance Tradeoff Interactive Application: Used Streamlit to deploy the demonstration on trade off
+between bias and variance on varying the value of ‘K’ in KNN regression model. [[STREAMLIT DEMO]](https://onlineashish-streamlit-bias-variance-main-ycy7na.streamlit.app/) [[CODE]](https://github.com/onlineashish/Streamlit-Bias-Variance).</li>
+<li>Linear Regression: Implemented Linear Regression with Ridge and LASSO regularization using multiple
+methods(SGD, batch, SVD) and demonstrated the visualization of gradients in 2-D and 3-D contours.[[CODE]](https://github.com/onlineashish/Linear_Regression_Implementation_Scratch)</li>
+<li>Image Classification using VGG [[CODE]](https://github.com/onlineashish/ImageClassification_VGG): Built Binary class Image classification models using variations of
+VGG models along with data augmentation and transfer learning resulting in 20% improvement in accuracy.</li>
+</ul>
+
+
+# Skills
+
+#####  <b>Languages</b>: 
+C++, Python, HTML, SQL, JavaScript, CSS
+
+#####  <b>Tools and Libraries</b>: 
+Git, Pytorch, Scikit-Learn, Numpy, Pandas, Matplotlib, SciPy, OpenCV
+
+#####  <b>Technical</b>: 
+Data Structures & Algorithm, OOPs, Deep Learning, Machine Learning, Image Processing, RandomForest,Linear Regression, SVM, KMean clustering, RNN, LSTM, Transformers, RPA

@@ -1,0 +1,28 @@
+---
+title: Ashish Sah
+image: files/Ashish_pic.jpg
+about:
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Ashishs36339577
+    - icon: github
+      text: Github
+      href: https://github.com/onlineaashish
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ashish-sah-1828b216a/
+    - icon: envelope
+      text: Email
+      href: mailto:sahashish@iitgn.ac.in
+    - icon: code
+      text: Leetcode
+      href: https://leetcode.com/codology
+        
+---
+<div style="text-align: justify; font-size: 22px;">
+ Hello! I'm currently pursuing M.Tech at IIT Gandhinagar and upcoming SDE at Broadridge. Eager learner in computer science, I thrive on challenges and hands-on projects. My academic journey fuels my passion for turning ideas into reality. Constantly exploring new horizons and keenly interested in Computer Vision. Check out my portfolio for a snapshot of my journey and projects. Let's connect and explore exciting opportunities together! 
+</div>

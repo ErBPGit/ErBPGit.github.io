@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ashish Sah",
+    "section": "",
+    "text": "Hello! I’m currently pursuing M.Tech at IIT Gandhinagar and upcoming SDE at Broadridge. Eager learner in computer science, I thrive on challenges and hands-on projects. My academic journey fuels my passion for turning ideas into reality. Constantly exploring new horizons and keenly interested in Computer Vision. Check out my portfolio for a snapshot of my journey and projects. Let’s connect and explore exciting opportunities together!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Ashish Sah",
+    "section": "",
+    "text": "Indian Instititute of Technology, Gandhinagar (IIT Gandhinagar), India | M.Tech in Computer Science & Engineering | Aug 2022 - June 2024 | CGPA : 8.35\nNitte Meenakshi Institute of Technology, Bangalore (NMIT), India | Bachelor in Computer Science & Engineering | Aug 2016 - Jul 2020 | CGPA : 9.20"
+  },
+  {
+    "objectID": "Project.html",
+    "href": "Project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects\n\nTIK-TAE-TOE Game using JavaScript. Click here to Play\nFaceFusion: EIgenfaces for face recognition\n\n\n\nUtilized the AT&T Database of Faces as the primary dataset for training and evaluating the face recognition model.\n\n\nImplemented a face recognition system based on the Eigenfaces algorithm, as outlined in the paper by M. A. Turk and A. P. Pentland, achieving an accuracy of 82.05%.\n\n\n\nEEG 2 Emotion: Classifying EEG signals into Emotions\n\n\nDevised EEG Based Emotion Classification system incorporating LSTM and GRU.\n\n\nIncorporated Birdy654 EEG brainwave dataset consisting of positive, negative and neutral states of preprocessed data.\n\n\nAchieved an F1 score of 96% using LSTM which was found to be better than GRU.\n\n\nCore ML Algorithm Implementations\n\n\nDecision Tree & Random Forest: Implemented decision tree from scratch for discrete and real features using both gini index and info gain as split criteria. Also applied 5 fold cross-validation and found the performance to be nearly equivalent with sklearn’s model. Implemented Ada-boost and Bagging algorithm for ensemble methods which were used in Random Forest and Linear regression implementations.\n\n\nBias Variance Tradeoff Interactive Application: Used Streamlit to deploy the demonstration on trade off between bias and variance on varying the value of ‘K’ in KNN regression model. [STREAMLIT DEMO] [CODE].\n\n\nLinear Regression: Implemented Linear Regression with Ridge and LASSO regularization using multiple methods(SGD, batch, SVD) and demonstrated the visualization of gradients in 2-D and 3-D contours.[CODE]\n\n\nImage Classification using VGG [CODE]: Built Binary class Image classification models using variations of VGG models along with data augmentation and transfer learning resulting in 20% improvement in accuracy.\n\n\n\n\n\nSkills\n\nLanguages:\nC++, Python, HTML, SQL, JavaScript, CSS\n\n\nTools and Libraries:\nGit, Pytorch, Scikit-Learn, Numpy, Pandas, Matplotlib, SciPy, OpenCV\n\n\nTechnical:\nData Structures & Algorithm, OOPs, Deep Learning, Machine Learning, Image Processing, RandomForest,Linear Regression, SVM, KMean clustering, RNN, LSTM, Transformers, RPA"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "GAllARY",
+    "section": "",
+    "text": "IITGN Green Campus, Lal minar view\n\n\n\n\n\nladakh, khardungla"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Ashish Sah",
+    "section": "",
+    "text": "Indian Instititute of Technology, Gandhinagar (IIT Gandhinagar), India | M.Tech in Computer Science & Engineering | Aug 2022 - June 2024 | CGPA : 8.35\nNitte Meenakshi Institute of Technology, Bangalore (NMIT), India | Bachelor in Computer Science & Engineering | Aug 2016 - Jul 2020 | CGPA : 9.20"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Ashish Sah",
+    "section": "Experience",
+    "text": "Experience\nAccenture | Application Development Analyst | Jun 2022 - Oct 2022\nAccenture | Associate Software Engineer | Nov 2020 - Oct 2022\nMindMatrix | Summer Intern | Jun 2019 - Aug 2019"
+  },
+  {
+    "objectID": "about.html#licenses-certifications",
+    "href": "about.html#licenses-certifications",
+    "title": "Ashish Sah",
+    "section": "Licenses & certifications",
+    "text": "Licenses & certifications\nMicrosoft Certified: Azure Fundamentals\nMicrosoft Certified: Power Platform Fundamentals\nAutomation Anywhere Certified Master RPA Professionsl (A2019)\nAutomation Anywhere Certified Advanced RPA Professionsl (A2019)"
+  }
+]

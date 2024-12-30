@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ashish Sah"
+  navbar:
+    right:
+      - href: index.qmd
+        text: HOME
+      - href: about.qmd
+        text: ABOUT
+      - href: Project.qmd
+        text: PROJECT
+      # - href: blogs.qmd
+      #   text: BLOGS
+      # - href: gallery.qmd
+      #   text: GALLERY
+      - href: files/CV.pdf
+        text: CV
+
+format:
+  html:
+    theme:
+      dark: [darkly, styles-dark.scss]
+      light: [litera, styles.scss] 
+    highlight-style: a11y-dark
+    mainfont: "Roboto"
+    monofont: "Roboto Mono"
+    code-copy: true
+    code-overflow: wrap
+
+
+execute:
+  freeze: auto

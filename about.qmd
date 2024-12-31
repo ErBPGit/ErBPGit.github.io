@@ -2,8 +2,7 @@
 title: "ACHIEVEMENTS"
 ---
 
-• Obtained Second Rank in the University final exam in Master of
-technology(M.TECH ).  
+• Awarded the Dean's List for acquiring 4.0 GPA.  
 • ABCDEF -->
 
 
@@ -12,18 +11,16 @@ technology(M.TECH ).
 
 ## Education
 
-Indian Instititute of Technology, Gandhinagar (IIT Gandhinagar), India |
-M.Tech in Computer Science & Engineering | Aug 2022 - June 2024 | CGPA : 8.35
+Minnesota State University, Mankato USA |
+Master's in Electrical and Computer Engineering | Aug 2024 - May 2026 | GPA : 4.0
 
-Nitte Meenakshi Institute of Technology, Bangalore (NMIT), India |
-Bachelor in Computer Science & Engineering | Aug 2016 - Jul 2020 | CGPA : 9.20
+Minnesota State University, Mankato USA |
+Bachelor's of Science in Electrical and Computer Engineering | Aug 2017 - May 2022 | GPA : 3.4
 
 ## Experience
-Accenture | Application Development Analyst | Jun 2022 - Oct 2022
-
-Accenture | Associate Software Engineer | Nov 2020 - Oct 2022
-
-MindMatrix | Summer Intern | Jun 2019 - Aug 2019
+Graduate Teaching Assistant
+Graduate 
+Staff Firmware Engineer 
 
 ## Licenses & certifications
 

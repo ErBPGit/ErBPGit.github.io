@@ -1,28 +1,35 @@
 ---
-title: Ashish Sah
-image: files/Ashish_pic.jpg
+title: Bishal Patel
+image: files/BP.webp
 about:
   template: jolla
   image-width: 15em
   image-shape: round
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/Ashishs36339577
     - icon: github
       text: Github
-      href: https://github.com/onlineaashish
+      href: https://github.com/ErBPGit
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ashish-sah-1828b216a/
+      href: https://www.linkedin.com/in/bishalpatel1/
+    - icon: experience
+      text: Experience
+      href: C:\GitProfile\ErBPGit.github.io\docs\experience.html
     - icon: envelope
       text: Email
-      href: mailto:sahashish@iitgn.ac.in
+      href: mailto:bishal.patel2056@gmail.com
     - icon: code
       text: Leetcode
       href: https://leetcode.com/codology
         
 ---
 <div style="text-align: justify; font-size: 22px;">
- Hello! I'm currently pursuing M.Tech at IIT Gandhinagar and upcoming SDE at Broadridge. Eager learner in computer science, I thrive on challenges and hands-on projects. My academic journey fuels my passion for turning ideas into reality. Constantly exploring new horizons and keenly interested in Computer Vision. Check out my portfolio for a snapshot of my journey and projects. Let's connect and explore exciting opportunities together! 
+
+Graduate Teaching Assistant | Electrical and Computer Engineer 
+
+I am a dedicated graduate student pursuing a Master’s in Electrical and Computer Engineering at Minnesota State University, Mankato. Alongside my studies, I serve as a Graduate Teaching Assistant, mentoring students in Microprocessors and Digital Systems Design, and as a Graduate Assistant Advisor in Student Activities.  
+
+With a Bachelor of Science in Electrical and Computer Engineering earned in 2022, my expertise lies in digital system design, microprocessors, and reliability engineering. I have hands-on experience with industry-standard tools such as Vivado, Quartus II, and Keil, and have contributed to diverse projects, including processor design, pipeline optimization, and FMEA simulations.  
+
+Originally from Nepal, I am passionate about leveraging technology to solve complex problems and aspire to drive innovation in the field of electrical and computer engineering.  
 </div>

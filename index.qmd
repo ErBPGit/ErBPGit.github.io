@@ -25,7 +25,7 @@ about:
 ---
 <div style="text-align: justify; font-size: 22px;">
 
-Graduate Teaching Assistant | Electrical and Computer Engineer 
+Electrical and Computer Engineer( Firmware and Embedded Speciality) 
 
 I am a dedicated graduate student pursuing a Master’s in Electrical and Computer Engineering at Minnesota State University, Mankato. Alongside my studies, I serve as a Graduate Teaching Assistant, mentoring students in Microprocessors and Digital Systems Design, and as a Graduate Assistant Advisor in Student Activities.  
 

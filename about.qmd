@@ -18,9 +18,52 @@ Minnesota State University, Mankato USA |
 Bachelor's of Science in Electrical and Computer Engineering | Aug 2017 - May 2022 | GPA : 3.4
 
 ## Experience
-Graduate Teaching Assistant
-Graduate 
-Staff Firmware Engineer 
+1. **Graduate Teaching Assistant**
+
+    Assisted the professor in preparing materials to ensure smooth lab operations, including organizing resources and demonstrating example projects.  
+    - Evaluated and graded students' assignments, providing constructive feedback on their work.  
+    - Guided students in the practical use of lab equipment, such as:  
+        - **FPGA Boards and STM Boards**: Supported configuration and operation to complete lab tasks.  
+        - **Function Generators**: Assisted in generating various waveforms required for assignments and interpreting waveform data.  
+        - **Oscilloscopes**: Facilitated understanding and generation of Pulse Width Modulation (PWM) signals.  
+        - **Multimeters**: Provided hands-on guidance for building circuits and accurately measuring current and voltage.  
+        - **Protoboards**: Taught students to assemble circuits using resistors, potentiometers, jumper wires, boards, speakers, LED lights, and other components.  
+    - Ensured students comprehended lab assignments and     successfully completed tasks within deadlines.  
+2. **Graduate Assistant Student Activities**
+      
+    - Collaborated with the Assistant Director, student workers, and the Mavs in Action team to support the University’s mission, vision, and core values.  
+    - Contributed to undergraduate program planning, student advising, risk management, leadership training, group dynamics, and promotion/marketing initiatives.  
+    - Played a key role in organizing and executing a variety of events, including:  
+    - Concerts, camping trips, and volunteer activities.  
+    - Fairs for Recognized Student Organizations (RSOs).  
+    - Team-building exercises and leadership workshops.  
+    - Assisted the Directors of Student Activities and other Graduate Assistants with essential tasks, ensuring the success of departmental programs and events.   
+3. **Staff Firmware Engineer** 
+
+    *Experience Overview* 
+    As a Staff Firmware Engineer at Itron, I contributed to the development of cutting-edge electricity meter firmware, working collaboratively across multidisciplinary teams.My day to day roles involved designing and debugging embedded firmware for real-time workloads, driving innovation in the utilities and smart city sectors.
+
+    *Key Responsibilities:*  
+    - Implemented bare-metal firmware, including application code and low-level drivers, for both new and existing hardware platforms.  
+    - Developed test code for verifying metering products with highly integrated analog and digital circuits.  
+    - Automated test processes by creating and debugging test scripts in C language and C#.  
+    - Conducted mixed-signal hardware characterization in collaboration with hardware engineers, utilizing laboratory instruments like oscilloscopes and logic analyzers.  
+    - Provided technical support for manufacturing and other internal departments, contributing to regulatory and reliability compliance.
+    - Participated as code reviewer for the codes updated by other engineer for any final changes and any other code breaks or pipeline breaks.
+
+    *Technical Expertise:*  
+    - Proficient in embedded C programming and debugging in environments like IAR IDE, Visual Studio Code, GIT extension for version controls, Azure DevOps for cloud engineering and date collaboration.  
+    - Skilled in validating hardware interfaces (I2C, UART, SPI, etc.) and using version control systems like Git.  
+    - Experienced in real-time operating systems and developing robust real-time computing solutions.  
+    - Hands-on experience with common laboratory instruments and developing bench test software.  
+
+    *Applications:* 
+    - Embedded computing for distributed edge intelligence.  
+    - Solid-state electricity meters with revenue-grade metrology.  
+    - Power quality and harmonics monitoring.  
+
+    *About Itron:*  
+    Itron is a leader in transforming energy and water management through innovative solutions. By focusing on smart networks, sensors, and services, Itron enables safer, more efficient management of critical utilities, creating a sustainable and resourceful world.
 
 ## Licenses & certifications
 
